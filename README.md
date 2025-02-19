@@ -1,2 +1,2 @@
-# Chinese-PLA-medical-school
+# Pengzhi
 GCBRGCN
