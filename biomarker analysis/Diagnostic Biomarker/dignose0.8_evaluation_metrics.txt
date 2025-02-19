@@ -1,0 +1,2 @@
+Cross-validated AUC: 0.9749 ¡À 0.0052
+Accuracy: 0.8433, Precision: 0.9898, Recall: 0.8291, F1-Score: 0.9023, Test AUC: 0.9613
