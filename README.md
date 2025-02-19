@@ -5,7 +5,7 @@ The GCBRGCN model is a novel approach to discovery biomarker for gastric cancer,
 The code was written in Python 3 and R, while being tested primarily on Python 3.7 and R 4.3.1, but should run on any operating system that supports Python and R.
 
 ##Document interpretation
-‘HAN’‘GAT’ and ‘GCN ‘ are the baseline model.
+‘HAN’ and ‘GCN ‘ are the baseline model.
 ‘RGCN ‘is the primary model.
 ‘RGCN_Ablation’ is used ablation experiment.
 ‘RGCN_CV’ is used for simple cross-validation.
