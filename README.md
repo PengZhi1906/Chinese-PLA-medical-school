@@ -11,3 +11,4 @@ The code was written in Python 3 and R, while being tested primarily on Python 3
 ‘RGCN_CV’ is used for simple cross-validation.
 ‘Biomarker analysis’ indicates the analysis process of biomarkers predicted by the model.
 ‘Machine learning’ Indicates the baseline machine learning algorithm
+![Graphical Abstract](.F:/图神经网络/胃癌文章/bioengineering/大修/fig1.png)
